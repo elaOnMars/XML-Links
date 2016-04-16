@@ -1,0 +1,7 @@
+# Lokalzeiten WDR (Nordrhein-Westfalen)
+http://www1.wdr.de/fernsehen/lokalzeit/aachen/lokalzeit-aachen-uebersicht-100.feed?format=xml
+http://www1.wdr.de/fernsehen/lokalzeit/koeln/lokalzeit-koeln-uebersicht-100.feed?format=xml
+http://www1.wdr.de/fernsehen/lokalzeit/duisburg/lokalzeit-duisburg-uebersicht-100.feed?format=xml
+http://www1.wdr.de/fernsehen/lokalzeit/bergischesland/lokalzeit-bergisches-land-uebersicht-100.feed?format=xml
+http://www1.wdr.de/fernsehen/lokalzeit/duesseldorf/lokalzeit-duesseldorf-uebersicht-100.feed?format=xml
+http://www1.wdr.de/fernsehen/lokalzeit/bonn/lokalzeit-Bonn-uebersicht-100.feed?format=xml
